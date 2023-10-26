@@ -3,6 +3,6 @@ module com.example.borgesapp {
     requires javafx.fxml;
 
 
-    opens com.example.borgesapp to javafx.fxml;
-    exports com.example.borgesapp;
+    opens com.borgesapp to javafx.fxml;
+    exports com.borgesapp;
 }
