@@ -1,4 +1,4 @@
-package com.borgesapp;
+package com.guiborges;
 
 
 import javafx.fxml.FXML;
